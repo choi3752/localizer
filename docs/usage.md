@@ -2,3 +2,4 @@
 
 Notes and usage details for localizer.
 - clarify the setup steps
+- link the usage section
