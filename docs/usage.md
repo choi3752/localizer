@@ -22,3 +22,4 @@ Notes and usage details for localizer.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
